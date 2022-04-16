@@ -42,21 +42,27 @@ patch:
       ascii_mode: true
     org.vim.MacVim:
       ascii_mode: true
-    com.google.Chrome:
+    com.googlecode.iterm2:
       ascii_mode: true
-    org.mozilla.firefox:
-      ascii_mode: true
-    com.apple.Safari:
-      ascii_mode: true
-    com.operasoftware.Opera:
-      ascii_mode: true
-    org.keepassx.keepassx:
+    com.raycast.macos:
       ascii_mode: true
     com.apple.Spotlight:
       ascii_mode: true
     com.apple.Terminal:
       no_inline: true
       vim_mode: true
+    com.microsoft.VSCode:
+      ascii_mode: true
+    # com.google.Chrome:
+    #   ascii_mode: true
+    # org.mozilla.firefox:
+    #   ascii_mode: true
+    # com.apple.Safari:
+    #   ascii_mode: true
+    # com.operasoftware.Opera:
+    #   ascii_mode: true
+    org.keepassx.keepassx:
+      ascii_mode: true
     #com.apple.iWork.Numbers:
       #no_inline: true
     com.alfredapp.Alfred:
